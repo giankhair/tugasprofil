@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  .profile {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .profile h1 {
+    color: #333;
+  }
+  
+  .profile p {
+    color: #666;
+  }
+  
+  .profile img {
+    max-width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .description {
+    text-align: justify;
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.5;
+  }
+  
+  .description h2 {
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .description p {
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .education {
+    text-align: justify;
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.5;
+  }
+  
+  .education h2 {
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .education p {
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .experience {
+    text-align: justify;
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.5;
+  }
+  
+  .experience h2 {
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .experience h4 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .experience p {
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
